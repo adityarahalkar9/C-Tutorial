@@ -3,9 +3,9 @@
 
 int main(){
 
-    Variables();
-    printf("\"I like Pizza\" - Abraham" );
+    variables();
 
+    printf("\"I like Pizza\" - Abraham" );
     return 0;
 }
 

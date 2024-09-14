@@ -1,4 +1,12 @@
 #include <stdio.h>
+#include <stdbool.h>
+
+/*
+    -> Allocated space in memory to store a value.
+    -> We refer to a variable's name to access the stored value.
+    -> That variable now behaves as if it was the value it contains.
+    -> But we need to declare what type of data we are storing.
+*/
 
 void variables(){
     int age = 24;
@@ -32,4 +40,11 @@ void datatypes(){
             -> Union
             -> Enum
     */
+    char a = 'C';                   // single character     %c
+    char b[] = "Hello";             // array of characters  %s
+
+    float c = 3.141592;             // 4 bytes (32 bits of precision) 6 - 7 digits    %f
+    double d = 3.141592653589793;   // 8 bytes (64 bits of precision) 15 - 16 digits  %lf
+
+    bool e = true;
 }
