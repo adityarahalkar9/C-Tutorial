@@ -3,3 +3,4 @@
 #include "1. Keywords.c"
 #include "2. Comments.c"
 #include "3. Variables & Datatypes.c"
+#include "4. Functions.c"
