@@ -8,15 +8,15 @@
     char, and even arrays or other structs.
 
     Key Points About Structs:
-        1. Definition: A struct defines a collection of variables (members) that can be of different 
-                       types, but are logically grouped together.
+        1. Definition       : A struct defines a collection of variables (members) that can be of different 
+                              types, but are logically grouped together.
         2. Accessing Members: You can access struct members using the dot (.) operator or the arrow (->) 
                               operator for pointers.
         3. Memory Allocation: The size of a struct is the sum of the sizes of its members, but padding 
                               (for alignment) may be added by the compiler to optimize access.
-        4. Pass by Value: Structs can be passed to functions by value or by reference (using pointers), 
-                          similar to primitive types.
-        5. Nested Structs: Structs can be nested inside other structs.
+        4. Pass by Value    : Structs can be passed to functions by value or by reference (using pointers), 
+                              similar to primitive types.
+        5. Nested Structs   : Structs can be nested inside other structs.
 */
 
 // Defining a struct to represent a Date
