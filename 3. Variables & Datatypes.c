@@ -46,5 +46,7 @@ void datatypes(){
     float c = 3.141592;             // 4 bytes (32 bits of precision) 6 - 7 digits    %f
     double d = 3.141592653589793;   // 8 bytes (64 bits of precision) 15 - 16 digits  %lf
 
-    bool e = true;
+    bool e = true;                  // 1 byte (true or false) %d
+
+    char f = 100;                   // 1 byte (-128 to +127)
 }
