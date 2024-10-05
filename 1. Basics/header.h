@@ -6,3 +6,4 @@
 #include "4. Functions.c"
 #include "5. Conditional statements.c"
 #include "6. Control flow.c"
+#include "7. Operators.c"

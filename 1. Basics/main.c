@@ -4,11 +4,21 @@
 int main(){
 
     // variables();
+
     // Function();
+
     // Conditions();
+
     // Break();
     // Continue();
-    Goto();
+    // Goto();
+
+    // Arithmetic();
+    // Relational();
+    // Logical();
+    // Bitwise();
+    // Assignment();
+    // Ternary();
 
     return 0;
 }
