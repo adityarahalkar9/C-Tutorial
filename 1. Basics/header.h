@@ -7,3 +7,4 @@
 #include "5. Conditional statements.c"
 #include "6. Control flow.c"
 #include "7. Operators.c"
+#include "8. Structs.c"

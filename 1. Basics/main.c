@@ -20,6 +20,8 @@ int main(){
     // Assignment();
     // Ternary();
 
+    // Struct();
+
     return 0;
 }
 
