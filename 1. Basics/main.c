@@ -21,6 +21,8 @@ int main(){
     // Ternary();
 
     // Struct();
+    
+    // Enum();
 
     return 0;
 }

@@ -8,3 +8,4 @@
 #include "6. Control flow.c"
 #include "7. Operators.c"
 #include "8. Structs.c"
+#include "9. Enums.c"
