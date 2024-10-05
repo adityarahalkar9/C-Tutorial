@@ -5,7 +5,10 @@ int main(){
 
     // variables();
     // Function();
-    Conditions();
+    // Conditions();
+    // Break();
+    // Continue();
+    Goto();
 
     return 0;
 }
