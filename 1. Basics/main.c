@@ -5,6 +5,7 @@ int main(){
 
     // variables();
     // Function();
+    Conditions();
 
     return 0;
 }

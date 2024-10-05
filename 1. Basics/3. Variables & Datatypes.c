@@ -8,7 +8,7 @@
     -> But we need to declare what type of data we are storing.
 */
 
-void variables(){
+void Variables(){
     int age = 24;
     float pi = 3.14;
     char hashtag = '#';
